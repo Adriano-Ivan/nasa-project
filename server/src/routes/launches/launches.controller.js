@@ -23,7 +23,9 @@ function httpAddNewLaunch(req, res) {
       error: "Missing required launch property",
     });
   }
+
   launch.launchDate = new Date(launch.launchDate);
+
   if (launch.launchDate.toString() === "Invalid Date") {
     return res.status(400).json({
       error: "Invalid launch date",
