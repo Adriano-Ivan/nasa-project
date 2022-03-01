@@ -1,6 +1,8 @@
 const http = require("http");
 const dotenv = require("dotenv");
 const app = require("./app");
+const cluster = require("cluster");
+cluster.schedulingPolicy = cluster.SCHED_RR;
 dotenv.config();
 
 const { loadPlanetsData } = require("./models/planets.model");
