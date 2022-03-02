@@ -1,0 +1,505 @@
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+8 planets founded.
+8 planets founded.
+8 planets founded.
+8 planets founded.
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+8 planets founded.
+8 planets founded.
+Listening on port 8000
+Listening on port 8000
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /sound/click.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /sound/typing.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /sound/success.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /sound/warning.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /sound/abort.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /img/background-large.jpg HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:25 +0000] "GET /img/glow.png HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:26 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:26 +0000] "GET /manifest.json HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /sound/click.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /sound/typing.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /sound/success.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /sound/abort.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /sound/warning.mp3 HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /img/background-large.jpg HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /img/glow.png HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:34 +0000] "GET /manifest.json HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:58 +0000] "GET /manifest.json HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:18:58 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /planets HTTP/1.1" 200 2 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:22:00 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:23:25 +0000] "GET /planets HTTP/1.1" 200 2 "-" "PostmanRuntime/7.29.0"
+::1 - - [02/Mar/2022:21:32:08 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:08 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /planets HTTP/1.1" 200 2 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:32:09 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:33 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:33 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:33 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:33 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:33 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:33 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:33 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:33 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:33 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:34 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:34 +0000] "GET /planets HTTP/1.1" 200 2 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:34 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:34 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:34 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:34 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:35:34 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:16 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:16 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:16 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:16 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:16 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:16 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:16 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:16 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:16 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:17 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:17 +0000] "GET /planets HTTP/1.1" 200 2 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:17 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:17 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:17 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:17 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:39:17 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+MongoDB connection ready !
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+MongoDB connection ready !
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: planets.findAll is not a function
+    at getAllPlanets (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:51:24)
+    at Parser.<anonymous> (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\planets.model.js:35:42)
+    at Parser.emit (node:events:520:28)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+::1 - - [02/Mar/2022:21:50:09 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:09 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /planets HTTP/1.1" 200 2 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:10 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:50:11 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+MongoDB connection ready !
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+::1 - - [02/Mar/2022:21:51:26 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:26 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:26 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:26 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:26 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:26 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:26 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:26 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:26 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:27 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+Promise { <pending> }
+::1 - - [02/Mar/2022:21:51:27 +0000] "GET /planets HTTP/1.1" 200 2 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:27 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:27 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:27 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:27 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:27 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:55 +0000] "GET /launches HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:51:55 +0000] "GET /favicon.ico HTTP/1.1" 200 1002 "http://localhost:8000/launches" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+MongoDB connection ready !
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+::1 - - [02/Mar/2022:21:56:01 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+Promise { <pending> }
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /planets HTTP/1.1" 200 2 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:56:02 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets founded.
+8 planets founded.
+Listening on port 8000
+Listening on port 8000
+MongoDB connection ready !
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+Promise { <pending> }
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /planets HTTP/1.1" 200 575 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:35 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:21:58:36 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+Promise { <pending> }
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /planets HTTP/1.1" 200 2 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:01 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:42 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:42 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:42 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:42 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:42 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:42 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:42 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:42 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:42 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:43 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+Promise { <pending> }
+::1 - - [02/Mar/2022:22:06:43 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:43 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:43 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:43 +0000] "GET /planets HTTP/1.1" 200 2 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:43 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:43 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+Promise { <pending> }
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /planets HTTP/1.1" 200 2 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:06:45 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+7 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+MongoDB connection ready !
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /static/js/main.a84083f5.js.map HTTP/1.1" 200 1671963 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+Promise { <pending> }
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:27 +0000] "GET /planets HTTP/1.1" 200 575 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:28 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [02/Mar/2022:22:07:28 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
