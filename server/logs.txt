@@ -503,3 +503,35 @@ Promise { <pending> }
 ::1 - - [02/Mar/2022:22:07:27 +0000] "GET /planets HTTP/1.1" 200 575 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
 ::1 - - [02/Mar/2022:22:07:28 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
 ::1 - - [02/Mar/2022:22:07:28 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets founded.
+8 planets founded.
+8 planets founded.
+8 planets founded.
+8 planets founded.
+8 planets founded.
+8 planets founded.
+8 planets founded.
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+Promise { <pending> }
+::1 - - [03/Mar/2022:20:43:06 +0000] "GET /planets HTTP/1.1" 200 575 "-" "PostmanRuntime/7.29.0"
+Promise { <pending> }
+::1 - - [03/Mar/2022:20:48:50 +0000] "GET /planets HTTP/1.1" 200 575 "-" "PostmanRuntime/7.29.0"
+Promise { <pending> }
+::1 - - [03/Mar/2022:20:48:52 +0000] "GET /planets HTTP/1.1" 200 575 "-" "PostmanRuntime/7.29.0"
+Promise { <pending> }
+::1 - - [03/Mar/2022:20:48:53 +0000] "GET /planets HTTP/1.1" 200 575 "-" "PostmanRuntime/7.29.0"
