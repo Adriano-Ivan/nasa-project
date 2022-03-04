@@ -535,3 +535,121 @@ Promise { <pending> }
 ::1 - - [03/Mar/2022:20:48:52 +0000] "GET /planets HTTP/1.1" 200 575 "-" "PostmanRuntime/7.29.0"
 Promise { <pending> }
 ::1 - - [03/Mar/2022:20:48:53 +0000] "GET /planets HTTP/1.1" 200 575 "-" "PostmanRuntime/7.29.0"
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets founded.
+8 planets founded.
+8 planets founded.
+8 planets founded.
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+8 planets founded.
+8 planets founded.
+8 planets founded.
+8 planets founded.
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+Listening on port 8000
+::1 - - [04/Mar/2022:11:37:01 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:01 +0000] "GET /static/js/main.a84083f5.js HTTP/1.1" 200 473195 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:01 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:01 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:01 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:01 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:01 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:01 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+Promise { <pending> }
+::1 - - [04/Mar/2022:11:37:02 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:02 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:02 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:02 +0000] "GET /planets HTTP/1.1" 200 247 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:02 +0000] "GET /launches HTTP/1.1" 200 1064 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:02 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+{
+  launchDate: 2022-03-04T00:00:00.000Z,
+  mission: 'Kepler-1649 b',
+  rocket: 'Explorer IS1',
+  target: 'Kepler-1652 b',
+  success: true,
+  upcoming: true,
+  customers: [ 'Adriano Ivan', 'NASA' ],
+  flightNumber: 105
+}
+::1 - - [04/Mar/2022:11:37:19 +0000] "POST /launches HTTP/1.1" 201 202 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:11:37:19 +0000] "GET /launches HTTP/1.1" 200 1267 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+{
+  mission: 'UP UP 2 !',
+  rocket: 'Interestelar Rocket V1 TESTE',
+  target: 'Kepler-1649 b',
+  launchDate: 2030-01-28T03:00:00.000Z,
+  success: true,
+  upcoming: true,
+  customers: [ 'Adriano Ivan', 'NASA' ],
+  flightNumber: 106
+}
+::1 - - [04/Mar/2022:11:48:42 +0000] "POST /launches HTTP/1.1" 201 214 "-" "PostmanRuntime/7.29.0"
+::1 - - [04/Mar/2022:11:50:29 +0000] "DELETE /launches/106 HTTP/1.1" 500 1534 "-" "PostmanRuntime/7.29.0"
+TypeError: launches.has is not a function
+    at existsLaunchWithId (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\models\launches.model.js:22:19)
+    at httpAbortLaunch (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\src\routes\launches\launches.controller.js:42:8)
+    at Layer.handle [as handle_request] (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\node_modules\express\lib\router\index.js:360:14)
+    at param (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\node_modules\express\lib\router\index.js:371:14)
+    at Function.process_params (C:\Users\Home\Desktop\NODE-UDEMY\nasa-project\server\node_modules\express\lib\router\index.js:416:3)
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+8 planets founded.
+Listening on port 8000
+::1 - - [04/Mar/2022:12:03:38 +0000] "DELETE /launches/104 HTTP/1.1" 200 11 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:12:03:38 +0000] "GET /launches HTTP/1.1" 200 1703 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:12:03:39 +0000] "DELETE /launches/103 HTTP/1.1" 200 11 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:12:03:39 +0000] "GET /launches HTTP/1.1" 200 1705 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:12:03:40 +0000] "DELETE /launches/105 HTTP/1.1" 200 11 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:12:03:40 +0000] "GET /launches HTTP/1.1" 200 1707 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+{
+  launchDate: 2022-03-04T00:00:00.000Z,
+  mission: 'UP and AWAY',
+  rocket: 'Explorer IS1',
+  target: 'Kepler-1649 b',
+  success: true,
+  upcoming: true,
+  customers: [ 'Adriano Ivan', 'NASA' ],
+  flightNumber: 108
+}
+::1 - - [04/Mar/2022:12:03:56 +0000] "POST /launches HTTP/1.1" 201 200 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:12:03:56 +0000] "GET /launches HTTP/1.1" 200 1908 "http://localhost:8000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:12:04:02 +0000] "DELETE /launches/108 HTTP/1.1" 200 11 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
+::1 - - [04/Mar/2022:12:04:02 +0000] "GET /launches HTTP/1.1" 200 1910 "http://localhost:8000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
